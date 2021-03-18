@@ -4,11 +4,11 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: stretch;
-  border-color: brown;
+  border: brown solid;
 }
 
 .flex-item {
-  background-color: burlywood;
+  background: burlywood;
 }
 
 .flex-item1 {
